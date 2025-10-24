@@ -21,7 +21,7 @@ Now, I use data to uncover insights, solve problems, and support smarter busines
 My upcoming projects through Merit America:
 ### SQL Project — Coming Soon
 ### ✅ Excel Project – NewCo Multi-Channel Marketing Analysis
-🔗 **Project Repository:** https://github.com/dsoltez/newco-marketing-analysis
+🔗 **Project Repository:** https://github.com/dsoltez/newco-multichannel-marketing-analysis
 **Summary:**  
 I used Excel pivot tables, filtering, and visualizations to analyze how different marketing channels and message styles impacted new-customer acquisition for a national retailer.
 
