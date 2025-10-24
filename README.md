@@ -19,7 +19,44 @@ Now, I use data to uncover insights, solve problems, and support smarter busines
 
 
 My upcoming projects through Merit America:
-### SQL Project — Coming Soon
+###### ✅ SQL Project — BigQuery Homelessness Analysis
+🔗 **Repository:** https://github.com/YOURUSERNAME/bigquery-sql-homelessness-analysis
+
+**Summary:**  
+This project explores U.S. homelessness data using Google BigQuery SQL. I analyzed patterns in total homelessness, unsheltered populations, youth homelessness, and state-level differences, then exported the results to CSV and organized them in a structured GitHub repository.
+
+**Dataset Source:**  
+BigQuery Public Dataset — `bigquery-public-data.homelessness.us_states`
+
+**Tools Used:**  
+- Google BigQuery (SQL querying)
+- CSV export for local analysis
+- GitHub for version control and organization
+
+**Steps I Took:**  
+1. Connected to BigQuery’s public homelessness dataset  
+2. Filtered and grouped data by state (2018)  
+3. Segmented by total homeless, unsheltered homeless, and youth homeless  
+4. Created multiple SQL queries to answer targeted questions  
+5. Exported results as CSV  
+6. Organized work into `data/`, `sql/`, and `docs/` folders  
+7. Summarized insights in the README  
+
+**Findings:**  
+- California, New York, and Florida had the highest total homelessness  
+- Several states exceeded 1,000 unsheltered individuals, suggesting infrastructure strain  
+- Some states had less than 2% unsheltered homelessness, indicating strong shelter systems  
+- Youth homelessness concentrated primarily in population-dense states  
+- Delaware showed atypical ratios compared to national patterns  
+
+**Future Questions:**  
+- How does climate influence unsheltered homelessness?  
+- Do shelter investments reduce unsheltered percentages?  
+- How do eviction policies affect homelessness trends?  
+- How does cost-of-living correlate with total homelessness?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### ✅ Excel Project – NewCo Multi-Channel Marketing Analysis
 🔗 **Project Repository:** https://github.com/dsoltez/newco-multichannel-marketing-analysis
 **Summary:**  
@@ -47,6 +84,8 @@ Excel (pivot tables, filtering, charts), segmentation, data visualization.
 - How would performance vary based on marketing spend?  
 - Which demographic segments respond best to each message?  
 - How well do newly acquired customers retain over time?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Capstone Project — Coming Soon
 
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-informational?style=flat&logo=microsoft-excel&logoColor=white&color=217346)
