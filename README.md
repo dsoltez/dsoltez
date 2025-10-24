@@ -27,7 +27,7 @@ Now, I use data to uncover insights, solve problems, and support smarter busines
 This project explores U.S. homelessness data using Google BigQuery SQL. I analyzed patterns in total homelessness, unsheltered populations, youth homelessness, and state-level differences, then exported the results to CSV and organized them in a structured GitHub repository.
 
 **Dataset Source:**  
-BigQuery Public Dataset — `bigquery-public-data.sdoh_hud_pit_homelessness.hud_pit_by_coc
+BigQuery Public Dataset — `bigquery-public-data.sdoh_hud_pit_homelessness.hud_pit_by_coc`
 
 **Tools Used:**  
 - Google BigQuery (SQL querying)
