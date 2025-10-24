@@ -17,9 +17,10 @@ Now, I use data to uncover insights, solve problems, and support smarter busines
 
 ⚡ Fun fact: I used to teach wine education and now love blending storytelling with data insights!
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-My upcoming projects through Merit America:
-###### ✅ SQL Project — BigQuery Homelessness Analysis
+# My upcoming projects through Merit America:
+  #### ✅ SQL Project — BigQuery Homelessness Analysis
 🔗 **Repository:** https://github.com/YOURUSERNAME/bigquery-sql-homelessness-analysis
 
 **Summary:**  
