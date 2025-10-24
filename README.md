@@ -16,3 +16,9 @@ Now, I use data to uncover insights, solve problems, and support smarter busines
 📫 How to reach me: dsoltez13@gmail.com
 
 ⚡ Fun fact: I used to teach wine education and now love blending storytelling with data insights!
+
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-informational?style=flat&logo=microsoft-excel&logoColor=white&color=217346)
+![SQL](https://img.shields.io/badge/SQL-Queries-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboards-orange)
+![R](https://img.shields.io/badge/R-Programming-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
