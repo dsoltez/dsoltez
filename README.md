@@ -21,7 +21,7 @@ Now, I use data to uncover insights, solve problems, and support smarter busines
 
 # My upcoming projects through Merit America:
   #### ✅ SQL Project — BigQuery Homelessness Analysis
-🔗 **Repository:** https://github.com/YOURUSERNAME/bigquery-sql-homelessness-analysis
+🔗 **Repository:** https://github.com/dsoltez/bigquery-sql-homelessness-analysis
 
 **Summary:**  
 This project explores U.S. homelessness data using Google BigQuery SQL. I analyzed patterns in total homelessness, unsheltered populations, youth homelessness, and state-level differences, then exported the results to CSV and organized them in a structured GitHub repository.
