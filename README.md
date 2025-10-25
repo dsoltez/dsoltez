@@ -13,6 +13,10 @@ Now, I use data to uncover insights, solve problems, and support smarter busines
 
 💬 Ask me about: customer segmentation, data storytelling, wine history, or the NFL 🏈
 
+🎯 Short-term goal: Finish the Google Data Analytics Certificate through Merit America and find a brand new job in Data Analytics
+
+🏆 Long-term goal: become a Data Scientist
+
 📫 How to reach me: dsoltez13@gmail.com
 
 ⚡ Fun fact: I used to teach wine education and now love blending storytelling with data insights!
