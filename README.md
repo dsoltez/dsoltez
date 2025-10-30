@@ -11,7 +11,7 @@ Now, I use data to uncover insights, solve problems, and support smarter busines
 
 🤔 I’m looking to improve: my business intelligence dashboards and SQL query optimization
 
-💬 Ask me about: customer segmentation, data storytelling, wine history, or the NFL 🏈
+💬 Ask me about: customer segmentation, data storytelling, wine history, or anything sports related!
 
 🎯 Short-term goal: Finish the Google Data Analytics Certificate through Merit America and find a brand new job in Data Analytics
 
