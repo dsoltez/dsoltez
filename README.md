@@ -7,9 +7,7 @@ Now, I use data to uncover insights, solve problems, and support smarter busines
 
 🌱 I’m currently learning: advanced data visualization and predictive modeling
 
-👯 I’m looking to collaborate on: real-world analytics projects and sports data storytelling
-
-🤔 I’m looking to improve: my business intelligence dashboards and SQL query optimization
+🤔 I’m looking to improve: my programming skills specifically with SQL, R, and Python
 
 💬 Ask me about: the wine or sports industry
 
