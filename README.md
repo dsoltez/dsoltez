@@ -2,7 +2,7 @@ Hi there 👋 I'm Drake!
 
 I’m a Data Analytics professional transitioning from the wine industry, where I developed a deep appreciation for balance — whether in a fine vintage or a well-structured dataset. My background taught me how to blend storytelling, precision, and sensory detail, skills I now apply to uncover insights, optimize performance, and support smarter decisions in the business and sports world.
 
-🔭 Currently working on: building my analytics portfolio in Excel, SQL, Tableau, and R — analyzing sports metrics and wine sales data to understand what drives team and business success.
+🔭 Currently working on: building my analytics portfolio in Excel, SQL, Tableau, and R.
 
 🌱 Currently learning: advanced data visualization and predictive modeling to turn raw numbers into clear, actionable stories
 
