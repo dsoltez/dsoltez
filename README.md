@@ -95,13 +95,10 @@ All results are visualized in R and compiled into a full R Markdown report.
 
 ### 4. Analyzed all 4 Key Questions
 
-- Q1: Highest decision rate
-
-- Q2: Highest Decision Efficiency Index (DEI)
-
-- Q3: Who improved or declined over four seasons
-
-- Q4: Relationship between decision tempo and effectiveness
+- Q1: Which quarterbacks had the highest decision rate (percentage of effective decisions per dropback)?
+- Q2: Which quarterbacks make consistently high-impact decisions (DEI)?
+- Q3: Which quarterbacks show improvement or decline in decision efficiency over the four seasons?
+- Q4: Is there a relationship between decision effectiveness and decision tempo (time to throw)?
 
 ### 5. Created polished visualizations
 
