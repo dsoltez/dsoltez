@@ -66,7 +66,7 @@ All results are visualized in R and compiled into a full R Markdown report.
 
  - Ensured anyone can recreate the entire analysis by running:
 
-    - source("scripts/qb_setup.R"
+    - source("scripts/qb_setup.R")
 
 ### 2. Imported & Cleaned All NFL Data
 
