@@ -19,8 +19,8 @@ I’m a Data Analytics professional transitioning from the wine industry, where 
 ⚡ Fun fact: I used to teach wine education — now I bring that same passion for discovery and storytelling to the world of data.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 🏈 R Project — Quarterback Decision Efficiency Case Study (2021–2024)
+# My Projects through Merit America:
+## 🏈 R Project — Quarterback Decision Efficiency Case Study (2021–2024)
 
 🔗 Repository: https://github.com/dsoltez/qb_decision_efficiency_case_study
 
@@ -149,9 +149,7 @@ The Decision Efficiency Index (DEI) is a brand-new, custom, multi-factor QB metr
 It is currently in its early stages, and will evolve as new variables, weights, and data sources are incorporated.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# My upcoming projects through Merit America:
-  #### ✅ SQL Project — BigQuery Homelessness Analysis
+#### ✅ SQL Project — BigQuery Homelessness Analysis
 🔗 **Repository:** https://github.com/dsoltez/bigquery-sql-homelessness-analysis
 
 **Summary:**  
