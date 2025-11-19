@@ -18,7 +18,140 @@ I’m a Data Analytics professional transitioning from the wine industry, where 
 
 ⚡ Fun fact: I used to teach wine education — now I bring that same passion for discovery and storytelling to the world of data.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🏈 R Project — Quarterback Decision Efficiency Case Study (2021–2024)
+
+🔗 Repository: https://github.com/dsoltez/qb_decision_efficiency_case_study
+
+## 📘 Summary
+
+- This project evaluates quarterback decision-making using a custom-built Decision Efficiency Index (DEI) and multiple supporting metrics. Using NFL play-by-play data and Next Gen Stats (NGS), the analysis identifies which quarterbacks make the most effective decisions, how their performance trends over time, and whether quicker processing leads to better outcomes.
+All results are visualized in R and compiled into a full R Markdown report.
+
+## 📊 Dataset Sources
+
+- NFL Play-by-Play Data (2021–2024) — via nflreadr / nflverse
+
+- Next Gen Stats (Passing Data) — average time to throw, touchdowns, EPA, etc.
+
+- Custom summary tables generated during processing:
+
+    - Season-level QB summary
+
+    - Combined four-season datasets
+
+    - DEI-ranked datasets (4-season qualified & minimum 1-season QBs)
+
+## 🛠 Tools Used
+
+- R / RStudio
+
+- tidyverse, nflreadr, nflverse, ggplot2, viridis, ggrepel
+
+- R Markdown for the final report
+
+- GitHub for version control and documentation
+
+## 📋 Steps I Took
+### 1. Set Up the Decision Efficiency Index Environment
+
+ - Built a reproducible analytical environment using the custom qb_setup.R script
+
+ - Automatically installed & loaded all required R packages
+
+ - Resolved package conflicts using {conflicted}
+
+ - Loaded all NFL play-by-play and Next Gen Stats datasets with status messages
+
+ - Ensured anyone can recreate the entire analysis by running:
+
+    - source("scripts/qb_setup.R"
+
+### 2. Imported & Cleaned All NFL Data
+
+- Imported NFL play-by-play (2021–2024) and NGS passing data
+
+- Filtered strictly for quarterback dropbacks
+
+- Removed designed runs and invalid / non-passing plays
+
+- Standardized quarterback names for reliable merging
+
+- Cleaned key variables such as EPA, time-to-throw, and turnovers
+
+### 3. Built the Decision Efficiency Index (DEI)
+  - A custom composite metric blending:
+
+  - Decision rate
+
+  - EPA
+
+  - Touchdowns
+
+  - Turnover rate
+
+  - Time-to-throw (decision tempo)
+
+### 4. Analyzed all 4 Key Questions
+
+- Q1: Highest decision rate
+
+- Q2: Highest Decision Efficiency Index (DEI)
+
+- Q3: Who improved or declined over four seasons
+
+- Q4: Relationship between decision tempo and effectiveness
+
+### 5. Created polished visualizations
+
+- Top 10 QB Decision Rate
+
+- Top 10 DEI (4-year qualified)
+
+- Top 10 DEI (min 1 season)
+
+- Decision efficiency trends
+
+- Decision effectiveness vs. tempo (regression scatterplot)
+
+- Compiled everything into a final HTML report
+  - (qb_decision_efficiency_case_study.html)
+
+## 🔍 Key Findings
+
+- Mahomes, Tua, and Goff lead the league in decision rate over 2021–2024.
+
+- DEI highlights Mahomes, Allen, and Tua as the most complete multi-year decision makers.
+
+- Some young QBs (Purdy, Love) rank extremely high in DEI despite limited seasons.
+
+- The negative correlation between time-to-throw and decision effectiveness indicates:
+
+- Quarterbacks who process faster generally perform better.
+
+- Veteran legends (Brady, Rodgers) still show elite decision-making late into their careers.
+
+## 📈 Future Enhancements
+
+- Expand the DEI to a 10-season dataset
+
+- Compare DEI to traditional QB metrics (EPA/play, QBR, CPOE)
+
+- Add situational DEI metrics (3rd down, red zone, 2-minute drill)
+
+- Integrate pressure data into decision tempo
+
+- Build a Shiny App for interactive DEI exploration
+
+- Extend the framework to other sports or positions (WRs, RBs, DBs)
+
+## ✨ About the DEI Metric
+
+The Decision Efficiency Index (DEI) is a brand-new, custom, multi-factor QB metric developed specifically for this project.
+It is currently in its early stages, and will evolve as new variables, weights, and data sources are incorporated.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # My upcoming projects through Merit America:
   #### ✅ SQL Project — BigQuery Homelessness Analysis
@@ -57,7 +190,7 @@ BigQuery Public Dataset — `bigquery-public-data.sdoh_hud_pit_homelessness.hud_
 - How do eviction policies affect homelessness trends?  
 - How does cost-of-living correlate with total homelessness?
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ✅ Excel Project – NewCo Multi-Channel Marketing Analysis
 🔗 **Project Repository:** https://github.com/dsoltez/newco-multichannel-marketing-analysis
@@ -88,7 +221,6 @@ Excel (pivot tables, filtering, charts), segmentation, data visualization.
 - How well do newly acquired customers retain over time?
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Capstone Project — Coming Soon
 
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-informational?style=flat&logo=microsoft-excel&logoColor=white&color=217346)
 ![SQL](https://img.shields.io/badge/SQL-Queries-blue)
