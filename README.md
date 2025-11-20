@@ -149,7 +149,7 @@ The Decision Efficiency Index (DEI) is a brand-new, custom, multi-factor QB metr
 It is currently in its early stages, and will evolve as new variables, weights, and data sources are incorporated.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### ✅ SQL Project — BigQuery Homelessness Analysis
+### ✅ SQL Project — BigQuery Homelessness Analysis
 🔗 **Repository:** https://github.com/dsoltez/bigquery-sql-homelessness-analysis
 
 **Summary:**  
