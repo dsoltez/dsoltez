@@ -66,7 +66,7 @@ All results are visualized in R and compiled into a full R Markdown report.
 
  - Ensured anyone can recreate the entire analysis by running:
 
-    - source("scripts/qb_setup.R")
+    - source("qb_setup.R")
 
 ### 2. Imported & Cleaned All NFL Data
 
@@ -83,15 +83,15 @@ All results are visualized in R and compiled into a full R Markdown report.
 ### 3. Built the Decision Efficiency Index (DEI)
   - A custom composite metric blending:
 
-  - Decision rate
+      - Decision rate
 
-  - EPA
+      - EPA
 
-  - Touchdowns
+      - Touchdowns
 
-  - Turnover rate
+      - Turnover rate
 
-  - Time-to-throw (decision tempo)
+      - Time-to-throw (decision tempo)
 
 ### 4. Analyzed all 4 Key Questions
 
