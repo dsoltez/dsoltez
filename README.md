@@ -1,22 +1,22 @@
-Hi there 👋 I'm Drake!
+Hi there, I'm Drake!
 
 I’m a Data Analytics professional transitioning from the wine industry, where I developed a deep appreciation for balance — whether in a fine vintage or a well-structured dataset. My background taught me how to blend storytelling, precision, and sensory detail, skills I now apply to uncover insights, optimize performance, and support smarter decisions in the business and sports world.
 
-🔭 Currently working on: building my analytics portfolio in Excel, SQL, Tableau, and R.
+**Currently working on: building my analytics portfolio in Excel, SQL, Tableau, and R.**
 
-🌱 Currently learning: advanced data visualization and predictive modeling to turn raw numbers into clear, actionable stories
+**Currently learning: advanced data visualization and predictive modeling to turn raw numbers into clear, actionable stories**
 
-🤔 Improving: programming and database management skills with SQL, R, and Python
+**Improving: programming and database management skills with SQL, R, and Python**
 
-💬 Ask me about: sports analytics, wine trends, or how the right data (like the right blend) can change everything
+**Ask me about: sports analytics, wine trends, or how the right data (like the right blend) can change everything**
 
-🎯 Short-term goal: complete the Google Data Analytics Certificate through Merit America and launch my career in analytics
+**Short-term goal: complete the Google Data Analytics Certificate through Merit America and launch my career in analytics**
 
-🏆 Long-term goal: become a Data Scientist in the sports industry, combining performance metrics and fan insights to help teams and organizations make smarter, data-driven decisions.
+**Long-term goal: become a Data Scientist in the sports industry, combining performance metrics and fan insights to help teams and organizations make smarter, data-driven decisions.**
 
-📫 Reach me at: dsoltez13@gmail.com
+**Reach me at: dsoltez13@gmail.com**
 
-⚡ Fun fact: I used to teach wine education — now I bring that same passion for discovery and storytelling to the world of data.
+**Fun fact: I used to teach wine education — now I bring that same passion for discovery and storytelling to the world of data.**
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # My Projects through Merit America:
@@ -24,12 +24,12 @@ I’m a Data Analytics professional transitioning from the wine industry, where 
 
 🔗 Repository: https://github.com/dsoltez/qb_decision_efficiency_case_study
 
-## 📘 Summary
+## Summary
 
 - This project evaluates quarterback decision-making using a custom-built Decision Efficiency Index (DEI) and multiple supporting metrics. Using NFL play-by-play data and Next Gen Stats (NGS), the analysis identifies which quarterbacks make the most effective decisions, how their performance trends over time, and whether quicker processing leads to better outcomes.
 All results are visualized in R and compiled into a full R Markdown report.
 
-## 📊 Dataset Sources
+## Dataset Sources
 
 - NFL Play-by-Play Data (2021–2024) — via nflreadr / nflverse
 
@@ -43,7 +43,7 @@ All results are visualized in R and compiled into a full R Markdown report.
 
     - DEI-ranked datasets (4-season qualified & minimum 1-season QBs)
 
-## 🛠 Tools Used
+## Tools Used
 
 - R / RStudio
 
@@ -53,7 +53,7 @@ All results are visualized in R and compiled into a full R Markdown report.
 
 - GitHub for version control and documentation
 
-## 📋 Steps I Took
+## Steps I Took
 ### 1. Set Up the Decision Efficiency Index Environment
 
  - Built a reproducible analytical environment using the custom qb_setup.R script
@@ -115,7 +115,7 @@ All results are visualized in R and compiled into a full R Markdown report.
 - Compiled everything into a final HTML report
   - (qb_decision_efficiency_case_study.html)
 
-## 🔍 Key Findings
+## Key Findings
 
 - Mahomes, Tua, and Goff lead the league in decision rate over 2021–2024.
 
@@ -129,7 +129,7 @@ All results are visualized in R and compiled into a full R Markdown report.
 
 - Veteran legends (Brady, Rodgers) still show elite decision-making late into their careers.
 
-## 📈 Future Enhancements
+## Future Enhancements/Projects
 
 - Expand the DEI to a 10-season dataset
 
@@ -143,13 +143,13 @@ All results are visualized in R and compiled into a full R Markdown report.
 
 - Extend the framework to other sports or positions (WRs, RBs, DBs)
 
-## ✨ About the DEI Metric
+## About the DEI Metric
 
 The Decision Efficiency Index (DEI) is a brand-new, custom, multi-factor QB metric developed specifically for this project.
 It is currently in its early stages, and will evolve as new variables, weights, and data sources are incorporated.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ✅ SQL Project — BigQuery Homelessness Analysis
+### SQL Project — BigQuery Homelessness Analysis
 🔗 **Repository:** https://github.com/dsoltez/bigquery-sql-homelessness-analysis
 
 **Summary:**  
@@ -187,7 +187,7 @@ BigQuery Public Dataset — `bigquery-public-data.sdoh_hud_pit_homelessness.hud_
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### ✅ Excel Project – NewCo Multi-Channel Marketing Analysis
+### Excel Project – NewCo Multi-Channel Marketing Analysis
 🔗 **Project Repository:** https://github.com/dsoltez/newco-multichannel-marketing-analysis
 **Summary:**  
 I used Excel pivot tables, filtering, and visualizations to analyze how different marketing channels and message styles impacted new-customer acquisition for a national retailer.
