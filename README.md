@@ -2,21 +2,21 @@ Hi there, I'm Drake!
 
 I’m a Data Analytics professional transitioning from the wine industry, where I developed a deep appreciation for balance — whether in a fine vintage or a well-structured dataset. My background taught me how to blend storytelling, precision, and sensory detail, skills I now apply to uncover insights, optimize performance, and support smarter decisions in the business and sports world.
 
-**Currently working on: building my analytics portfolio in Excel, SQL, Tableau, and R.**
+**- Currently working on: building my analytics portfolio in Excel, SQL, Tableau, and R.**
 
-**Currently learning: advanced data visualization and predictive modeling to turn raw numbers into clear, actionable stories**
+**- Currently learning: advanced data visualization and predictive modeling to turn raw numbers into clear, actionable stories**
 
-**Improving: programming and database management skills with SQL, R, and Python**
+**- Improving: programming and database management skills with SQL, R, and Python**
 
-**Ask me about: sports analytics, wine trends, or how the right data (like the right blend) can change everything**
+**- Ask me about: sports analytics, wine trends, or how the right data (like the right blend) can change everything**
 
-**Short-term goal: complete the Google Data Analytics Certificate through Merit America and launch my career in analytics**
+**- Short-term goal: complete the Google Data Analytics Certificate through Merit America and launch my career in analytics**
 
-**Long-term goal: become a Data Scientist in the sports industry, combining performance metrics and fan insights to help teams and organizations make smarter, data-driven decisions.**
+**- Long-term goal: become a Data Scientist in the sports industry, combining performance metrics and fan insights to help teams and organizations make smarter, data-driven decisions.**
 
-**Reach me at: dsoltez13@gmail.com**
+**- Reach me at: dsoltez13@gmail.com**
 
-**Fun fact: I used to teach wine education — now I bring that same passion for discovery and storytelling to the world of data.**
+**- Fun fact: I used to teach wine education — now I bring that same passion for discovery and storytelling to the world of data.**
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # My Projects through Merit America:
