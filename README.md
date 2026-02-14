@@ -149,7 +149,7 @@ It is currently in its early stages, and will evolve as new variables, weights, 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # SQL Project — Global Layoffs Analysis (2020–2023)
 ## 🔗 Repository: https://github.com/dsoltez/global-layoffs-analysis
-# 1. Summary:
+## 1. Summary:
 This project analyzes global layoffs from 2020–2023 using SQL for data cleaning and exploratory analysis, followed by Excel for dashboard visualization. I cleaned and aggregated the dataset to uncover trends across companies, industries, countries, and yearly totals, then built an executive‑style dashboard to present the findings clearly and visually.
 Dataset Source:
 Kaggle — Global Layoffs Dataset (2020–2023)
