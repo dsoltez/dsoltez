@@ -4,13 +4,13 @@ I’m an analytics professional with a strong foundation in data analysis and st
 
 **- Core expertise: data cleaning, exploratory analysis, metric design, visualization, and translating complex datasets into clear, actionable insights**
 
-**- Technical strengths: SQL and R for analysis and modeling, Excel for structured reporting, Tableau for visualization, with expanding proficiency in Python**
+**- Technical strengths: SQL and R for analysis and modeling, Excel for structured reporting and Dashboard visualization.**
 
-**- Ask me about: sports analytics, performance metrics, data storytelling, wine trends, or how the right data (like the right blend) can change everything**
+**- Ask me about: data analytics, data storytelling, wine trends, or how the right blend through data can change everything**
 
-**- Career milestone (Completed): completed the Google Data Analytics Certificate through Merit America and officially launched my career in analytics**
+**- Career milestone: Completed the Google Data Analytics Certificate through Merit America and officially launched my career in analytics**
 
-**- Long-term goal: become a Data Scientist in the sports industry, combining performance analytics and fan insights to support smarter, data-driven decisions for teams and organizations**
+**- Long-term goal: become a Data Scientist**
 
 **- Reach me at: dsoltez13@gmail.com**
 
@@ -147,6 +147,37 @@ The Decision Efficiency Index (DEI) is a brand-new, custom, multi-factor QB metr
 It is currently in its early stages, and will evolve as new variables, weights, and data sources are incorporated.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# SQL Project — Global Layoffs Analysis (2020–2023)
+## 🔗 Repository: https://github.com/dsoltez/global-layoffs-analysis
+# 1. Summary:
+This project analyzes global layoffs from 2020–2023 using SQL for data cleaning and exploratory analysis, followed by Excel for dashboard visualization. I cleaned and aggregated the dataset to uncover trends across companies, industries, countries, and yearly totals, then built an executive‑style dashboard to present the findings clearly and visually.
+Dataset Source:
+Kaggle — Global Layoffs Dataset (2020–2023)
+## 2. Tools Used:
+- SQL (data cleaning, aggregation, EDA)
+- Excel (dashboard design, KPI cards, charts, filled map)
+- CSV exports for structured outputs
+- GitHub for version control and documentation
+## 3. Steps I Took:
+- Cleaned the raw dataset using SQL (duplicate removal, standardization, date formatting)
+- Aggregated layoffs by company, industry, country, and year
+- Performed exploratory analysis to identify top 10 companies and industries
+- Generated country‑level and year‑over‑year summaries
+- Exported cleaned and aggregated results as CSV
+- Built a multi‑visual Excel dashboard (KPI cards, bar charts, map, line chart)
+- Organized the project into data/, sql/, and visual/ folders with a structured README
+## 4. Findings:
+- 2022 had the highest total layoffs globally
+- The United States accounted for the largest share of layoffs
+- Amazon recorded the highest total layoffs among all companies
+- Tech‑related industries dominated the top 10 most impacted sectors
+- Layoffs rose sharply from 2020 to 2022 before stabilizing
+## 5. Future Questions:
+- How do layoffs correlate with macroeconomic indicators (inflation, interest rates)?
+- Which industries recovered fastest post‑2023?
+- Are layoffs concentrated in specific company sizes or revenue tiers?
+- How do layoffs differ between tech and non‑tech sectors over time?
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SQL Project — BigQuery Homelessness Analysis
 🔗 **Repository:** https://github.com/dsoltez/bigquery-sql-homelessness-analysis
 
@@ -185,33 +216,7 @@ BigQuery Public Dataset — `bigquery-public-data.sdoh_hud_pit_homelessness.hud_
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Excel Project – NewCo Multi-Channel Marketing Analysis
-🔗 **Project Repository:** https://github.com/dsoltez/newco-multichannel-marketing-analysis
-**Summary:**  
-I used Excel pivot tables, filtering, and visualizations to analyze how different marketing channels and message styles impacted new-customer acquisition for a national retailer.
 
-**Dataset Source:**  
-Provided through a BCG X job simulation as campaign performance data.
-
-**Tools Used:**  
-Excel (pivot tables, filtering, charts), segmentation, data visualization.
-
-**Steps I Took:**  
-1. Cleaned and explored marketing campaign data in Excel  
-2. Segmented by new vs. existing customers  
-3. Built pivot tables comparing channels and message types  
-4. Created charts to visualize performance  
-5. Identified insights and business recommendations  
-
-**Findings:**  
-- Campaign A performed best for new-customer revenue  
-- Email was the strongest acquisition channel  
-- Instagram & Web Banner contributed moderate reach value  
-
-**Future Questions:**  
-- How would performance vary based on marketing spend?  
-- Which demographic segments respond best to each message?  
-- How well do newly acquired customers retain over time?
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
